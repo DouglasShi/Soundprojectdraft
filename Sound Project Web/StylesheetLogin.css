@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body
+{
+    background-image: url("login.jpg");
+    background-size: cover;
+    background-position:100% 100%;
+}
+
+button{
+    position: absolute;
+    margin-top: 31%;
+    margin-left: 36%;
+}
+

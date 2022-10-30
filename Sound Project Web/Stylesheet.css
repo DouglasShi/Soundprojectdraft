@@ -1,0 +1,15 @@
+body
+{
+    background-image: url("tenor.gif");
+    background-size: cover;
+    background-position:100% 100%;
+}
+
+button{
+    margin-left: 58%;
+    margin-top: 41.3%;
+    position: absolute;
+    border-width: 2px;
+    border-color: rgb(96, 91, 91);
+
+}
